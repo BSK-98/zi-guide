@@ -62,16 +62,18 @@ const SideBar = () => {
                         Share Your Experience
                     </div>
                 </a>
-                <a href="#" className="add">
-                    <div className="icon">
-                        <span className="material-symbols-outlined">
-                            add
-                        </span>
-                    </div>
-                    <div className="details">
-                        Add
-                    </div>
-                </a>
+                <div className="add-c">
+                    <a href="#" className="add">
+                        <div className="icon">
+                            <span className="material-symbols-outlined">
+                                add
+                            </span>
+                        </div>
+                        <div className="details">
+                            Add
+                        </div>
+                    </a>
+                </div>
             </nav>
         </menu>
     )
