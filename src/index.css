@@ -208,7 +208,7 @@ menu a .details {
 #map {
   border-radius: .5rem;
   height: 100%;
-  /* overflow: hidden; */
+  overflow: hidden;
   border: none;
 }
 .content-box {
