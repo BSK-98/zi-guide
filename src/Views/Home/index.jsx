@@ -1,10 +1,12 @@
-import { Card } from "../../components"
+import { Card, Map } from "../../components"
 
 const Home = () => {
     return (
         <div class="home page">
             <div class="map-box">
-                <div id="map"></div>
+                <div id="map">
+                    <Map />
+                </div>
             </div>
             <div class="content-box">
                 <Card />
