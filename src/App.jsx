@@ -8,8 +8,8 @@ function App() {
   return (
     
     <div id="wrapper">
-      <div class="header"></div>
-      <div class="wrapper">
+      <div className="header"></div>
+      <div className="wrapper">
           <TopBar />
           <SideBar />
           <main>

@@ -2,73 +2,73 @@ const SideBar = () => {
     return (
         <menu>
             <nav>
-                <a href="#" class="active">
-                    <div class="icon">
-                        <span class="material-symbols-outlined">
+                <a href="#" className="active">
+                    <div className="icon">
+                        <span className="material-symbols-outlined">
                             account_circle
                         </span>
                     </div>
-                    <div class="details">
+                    <div className="details">
                         Profile
                     </div>
                 </a>
                 <a href="#">
-                    <div class="icon">
-                        <span class="material-symbols-outlined">
+                    <div className="icon">
+                        <span className="material-symbols-outlined">
                             favorite
                         </span>
                     </div>
-                    <div class="details">
+                    <div className="details">
                         Favorites
                     </div>
                 </a>
                 <a href="#">
-                    <div class="icon">
-                        <span class="material-symbols-outlined">
+                    <div className="icon">
+                        <span className="material-symbols-outlined">
                             playlist_add_circle
                         </span>
                     </div>
-                    <div class="details">
+                    <div className="details">
                         Wishlist
                     </div>
                 </a>
                 <a href="#">
-                    <div class="icon">
-                        <span class="material-symbols-outlined">
+                    <div className="icon">
+                        <span className="material-symbols-outlined">
                             manage_accounts
                         </span>
                     </div>
-                    <div class="details">
+                    <div className="details">
                         Settings
                     </div>
                 </a>
                 <a href="#">
-                    <div class="icon">
-                        <span class="material-symbols-outlined">
+                    <div className="icon">
+                        <span className="material-symbols-outlined">
                             manage_history
                         </span>
                     </div>
-                    <div class="details">
+                    <div className="details">
                         History Settings
                     </div>
                 </a>
                 <a href="#">
-                    <div class="icon">
-                        <span class="material-symbols-outlined">
+                    <div className="icon">
+                        <span className="material-symbols-outlined">
                             share
                         </span>
                     </div>
-                    <div class="details">
+                    <div className="details">
                         Share Your Experience
                     </div>
                 </a>
-                <a href="#" class="add">
-                    <div class="icon">
-                        <span class="material-symbols-outlined">
+                <a href="#" className="add">
+                    <div className="icon">
+                        <span className="material-symbols-outlined">
                             add
                         </span>
                     </div>
-                    <div class="details">
+                    <div className="details">
                         Add
                     </div>
                 </a>

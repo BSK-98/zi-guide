@@ -2,13 +2,13 @@ import { Card, Map } from "../../components"
 
 const Home = () => {
     return (
-        <div class="home page">
-            <div class="map-box">
+        <div className="home page">
+            <div className="map-box">
                 <div id="map">
                     <Map />
                 </div>
             </div>
-            <div class="content-box">
+            <div className="content-box">
                 <Card />
                 <Card />
                 <Card />
