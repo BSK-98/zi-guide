@@ -1,3 +1,4 @@
+import Avatar from './../../assets/avatar/avatar1.jpeg'
 const TopBar = () => {
 
     return (
@@ -14,7 +15,7 @@ const TopBar = () => {
                 </div>
                 <div className="user">
                     <div className="img">
-                        <img src="./images/danial-shoorangiz-BCbaILjH_LI-unsplash.jpg" alt="Avatar" />
+                        <img src={Avatar} alt="Avatar" />
                     </div>
                 </div>
             </nav>
